@@ -1,0 +1,5 @@
+### XML related technologies
+
+* Schematron - rule based validation language to validate XML file expressed in XML.
+* Schema - description of XML elements and constraints on the structure and content.
+* DTD - Documen Type Definition
